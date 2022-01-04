@@ -8,7 +8,7 @@ to find the lowest common ancestor (LCA) of two given nodes in the BST.
 If interested in my comments and approach I invite you to read the 
 following post in my blog:
 
-<T.B.D.>
+https://www.johncanessa.com/2022/01/04/leetcode-235-lowest-common-ancestor-of-a-binary-tree-in-java/
 
 Enjoy;
 
